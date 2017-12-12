@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Hungry4Pizza</string>
+    <string name="txtSenha">Sua Senha</string>
+    <string name="txtLogin">Seu Login</string>
+    <string name="txtConectar">Conectar</string>
+    <string name="txtErrorLogin">Login não informado</string>
+    <string name="txtErrorPassword">Senha não informada</string>
+    <string name="txtEscolhaPizza">Escolha a(s) pizza(s)</string>
+    <string name="txtBacon">Bacon</string>
+    <string name="txtChampignon">Champignon</string>
+    <string name="txtAtum">Atum</string>
+    <string name="txtChocolate">Chocolate</string>
+    <string name="txtTamanhoPizza">Tamanho da Pizza</string>
+    <string name="rbBroto">Broto</string>
+    <string name="rbNormal">Normal</string>
+    <string name="rbFamilia">Familia</string>
+    <string name="txtFormaPagamento">Forma de Pagamento</string>
+    <string name="txtValeRefeicao">Vale Refeição</string>
+    <string name="txtCartao">Cartão</string>
+    <string name="txtDinheiro">Dinheiro</string>
+    <string name="txtSelecionePgto">Selecione a forma de pagamento</string>
+    <string name="btFecharPedido">Fechar pedido</string>
+</resources>

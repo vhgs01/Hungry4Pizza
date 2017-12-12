@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pagamentos">
+        <item>@string/txtSelecionePgto</item>
+        <item>@string/txtValeRefeicao</item>
+        <item>@string/txtCartao</item>
+        <item>@string/txtDinheiro</item>
+    </string-array>
+</resources>
